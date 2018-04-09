@@ -1,0 +1,28 @@
+/*background image*/
+body {
+    background-color: gray;
+}
+
+.panel-body {
+    font-family: OCR A Std, monospace;
+}
+
+h1 {
+    font-family:Brush Script MT, Brush Script Std, cursive;    
+}
+
+h3 {
+    color: rgb(221, 35, 35);
+    font-family:Jazz LET, fantasy;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://www.howtomash.com/wp-content/uploads/2017/01/7-11020_2483-768x547.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(221, 35, 35);
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
